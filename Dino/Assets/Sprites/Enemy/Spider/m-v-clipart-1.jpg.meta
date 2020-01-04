@@ -1,0 +1,2443 @@
+fileFormatVersion: 2
+guid: 681ed4875f46b4b48addb7ef2fe465c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1641201528451361585
+    second: m-v-clipart-1_0
+  - first:
+      213: 8154895259637867869
+    second: m-v-clipart-1_1
+  - first:
+      213: -1801523737377165249
+    second: m-v-clipart-1_2
+  - first:
+      213: -6196300281571075572
+    second: m-v-clipart-1_3
+  - first:
+      213: 6495711139997275270
+    second: m-v-clipart-1_4
+  - first:
+      213: 1989734158551583587
+    second: m-v-clipart-1_5
+  - first:
+      213: 4830140651533678125
+    second: m-v-clipart-1_6
+  - first:
+      213: -3163637084904638071
+    second: m-v-clipart-1_7
+  - first:
+      213: -4475189469214160409
+    second: m-v-clipart-1_8
+  - first:
+      213: 2625798999234892895
+    second: m-v-clipart-1_9
+  - first:
+      213: -3163819460288718363
+    second: m-v-clipart-1_10
+  - first:
+      213: 7480792800473025008
+    second: m-v-clipart-1_11
+  - first:
+      213: -7083200038830237147
+    second: m-v-clipart-1_12
+  - first:
+      213: -7573252078015010828
+    second: m-v-clipart-1_13
+  - first:
+      213: 7043947691683766323
+    second: m-v-clipart-1_14
+  - first:
+      213: 6981716436233906145
+    second: m-v-clipart-1_15
+  - first:
+      213: -279786515552778088
+    second: m-v-clipart-1_16
+  - first:
+      213: 5612171144189294251
+    second: m-v-clipart-1_17
+  - first:
+      213: 8655624646173050964
+    second: m-v-clipart-1_18
+  - first:
+      213: 5187987331746146743
+    second: m-v-clipart-1_19
+  - first:
+      213: 6561169808113448244
+    second: m-v-clipart-1_20
+  - first:
+      213: 7737317566630488142
+    second: m-v-clipart-1_21
+  - first:
+      213: 7011364588778254014
+    second: m-v-clipart-1_22
+  - first:
+      213: 8401859132097106981
+    second: m-v-clipart-1_23
+  - first:
+      213: 8620980720096361699
+    second: m-v-clipart-1_24
+  - first:
+      213: -842316643847192797
+    second: m-v-clipart-1_25
+  - first:
+      213: 796640270005817992
+    second: m-v-clipart-1_26
+  - first:
+      213: 7511083344095837659
+    second: m-v-clipart-1_27
+  - first:
+      213: 8288632022021644802
+    second: m-v-clipart-1_28
+  - first:
+      213: 2714616680007618955
+    second: m-v-clipart-1_29
+  - first:
+      213: -9147702272882441662
+    second: m-v-clipart-1_30
+  - first:
+      213: -233140839306896172
+    second: m-v-clipart-1_31
+  - first:
+      213: -6448876372469642691
+    second: m-v-clipart-1_32
+  - first:
+      213: -4154702565493866975
+    second: m-v-clipart-1_33
+  - first:
+      213: -9134345895058390119
+    second: m-v-clipart-1_34
+  - first:
+      213: -6835488429753163068
+    second: m-v-clipart-1_35
+  - first:
+      213: -8814211091427476716
+    second: m-v-clipart-1_36
+  - first:
+      213: -4077895988585197064
+    second: m-v-clipart-1_37
+  - first:
+      213: -4808818471514144674
+    second: m-v-clipart-1_38
+  - first:
+      213: -8055997832063152789
+    second: m-v-clipart-1_39
+  - first:
+      213: -1116372813245454199
+    second: m-v-clipart-1_40
+  - first:
+      213: 3551958952328839350
+    second: m-v-clipart-1_41
+  - first:
+      213: -5501654611364277643
+    second: m-v-clipart-1_42
+  - first:
+      213: -8997527534437792258
+    second: m-v-clipart-1_43
+  - first:
+      213: -6212973882189418207
+    second: m-v-clipart-1_44
+  - first:
+      213: 6879286646707073055
+    second: m-v-clipart-1_45
+  - first:
+      213: 8273256341816620211
+    second: m-v-clipart-1_46
+  - first:
+      213: 374031962313143947
+    second: m-v-clipart-1_47
+  - first:
+      213: 3640951158497608037
+    second: m-v-clipart-1_48
+  - first:
+      213: 3517283797342283553
+    second: m-v-clipart-1_49
+  - first:
+      213: -232553395903669903
+    second: m-v-clipart-1_50
+  - first:
+      213: -618070401074222360
+    second: m-v-clipart-1_51
+  - first:
+      213: -4839706620415659346
+    second: m-v-clipart-1_52
+  - first:
+      213: -8310090912572121295
+    second: m-v-clipart-1_53
+  - first:
+      213: -7669164002239681261
+    second: m-v-clipart-1_54
+  - first:
+      213: 8845870686510752414
+    second: m-v-clipart-1_55
+  - first:
+      213: 8319596341119768052
+    second: m-v-clipart-1_56
+  - first:
+      213: 7563727388657465163
+    second: m-v-clipart-1_57
+  - first:
+      213: 8735083636512674915
+    second: m-v-clipart-1_58
+  - first:
+      213: 2685178248703032097
+    second: m-v-clipart-1_59
+  - first:
+      213: 7748891980361536149
+    second: m-v-clipart-1_60
+  - first:
+      213: 5439358343426604643
+    second: m-v-clipart-1_61
+  - first:
+      213: -5494972637580746930
+    second: m-v-clipart-1_62
+  - first:
+      213: -8081411667589670314
+    second: m-v-clipart-1_63
+  - first:
+      213: 1481799894879724639
+    second: m-v-clipart-1_64
+  - first:
+      213: -2990159590564102200
+    second: m-v-clipart-1_65
+  - first:
+      213: -3588693658568450866
+    second: m-v-clipart-1_66
+  - first:
+      213: -5853003606847092227
+    second: m-v-clipart-1_67
+  - first:
+      213: 6966230725163663836
+    second: m-v-clipart-1_68
+  - first:
+      213: -6764338338023009869
+    second: m-v-clipart-1_69
+  - first:
+      213: 4715249189422296344
+    second: m-v-clipart-1_70
+  - first:
+      213: -5187992603988870918
+    second: m-v-clipart-1_71
+  - first:
+      213: 956337243203710965
+    second: m-v-clipart-1_72
+  - first:
+      213: 2840717647564143270
+    second: m-v-clipart-1_73
+  - first:
+      213: -4360003140870595818
+    second: m-v-clipart-1_74
+  - first:
+      213: -7172393098318614195
+    second: m-v-clipart-1_75
+  - first:
+      213: 4576605359193964372
+    second: m-v-clipart-1_76
+  - first:
+      213: 8021327378973109595
+    second: m-v-clipart-1_77
+  - first:
+      213: 2535350075905891136
+    second: m-v-clipart-1_78
+  - first:
+      213: 8327936226481647916
+    second: m-v-clipart-1_79
+  - first:
+      213: 2165109451028856631
+    second: m-v-clipart-1_80
+  - first:
+      213: -4983170602749674200
+    second: m-v-clipart-1_81
+  - first:
+      213: -7239798877353006637
+    second: m-v-clipart-1_82
+  - first:
+      213: 638679373665992946
+    second: m-v-clipart-1_83
+  - first:
+      213: 6296331234431157147
+    second: m-v-clipart-1_84
+  - first:
+      213: -7081576031565006767
+    second: m-v-clipart-1_85
+  - first:
+      213: 2460831700197237560
+    second: m-v-clipart-1_86
+  - first:
+      213: -7613549028663231745
+    second: m-v-clipart-1_87
+  - first:
+      213: 5509208466945770710
+    second: m-v-clipart-1_88
+  - first:
+      213: 3469500520194856215
+    second: m-v-clipart-1_89
+  - first:
+      213: -3095381305497843420
+    second: m-v-clipart-1_90
+  - first:
+      213: 1308773987036605279
+    second: m-v-clipart-1_91
+  - first:
+      213: 4478858024699046197
+    second: m-v-clipart-1_92
+  - first:
+      213: 2895996859695899498
+    second: m-v-clipart-1_93
+  - first:
+      213: 3569838185347599270
+    second: m-v-clipart-1_94
+  - first:
+      213: -4416084291613439898
+    second: m-v-clipart-1_95
+  - first:
+      213: 4513855435060191875
+    second: m-v-clipart-1_96
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: m-v-clipart-1_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 341
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6075bf6fcb64b524c8a703611f1d19f7
+      internalID: -1641201528451361585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 340
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da88f1fd9c781842afeccd7a65ed282
+      internalID: 8154895259637867869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 342
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29abd68af6547e440b2ab259594ff6f8
+      internalID: -1801523737377165249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 337
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8752ec89e0a46804a8719d7fc1d33489
+      internalID: -6196300281571075572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 337
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dfcda6be0356642963fd4630f2d972
+      internalID: 6495711139997275270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 337
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36248b3538b26644ab7c05aefc9cf668
+      internalID: 1989734158551583587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 376
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa6d280268f0c24281440dd757a878d
+      internalID: 4830140651533678125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 341
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773e2dd73f62ae446ad01888cae6aa98
+      internalID: -3163637084904638071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 348
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb00b8926eb6939499a1a7aeb8764ae7
+      internalID: -4475189469214160409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 344
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7b4399a0da0a040bdaff1c58e24ce0
+      internalID: 2625798999234892895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 342
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8efc3e6b117b6943bf59a3710be983a
+      internalID: -3163819460288718363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_11
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 342
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a11c9ef0bc33454d8d31c6f8102d59c
+      internalID: 7480792800473025008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_12
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 344
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ad29eff5ebf0f4086fb2d9a0f2d780
+      internalID: -7083200038830237147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e484a2042f0463d45a343ea2b1ffb8d3
+      internalID: -7573252078015010828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 297
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c912c6408f7024da3d39977bcc400f
+      internalID: 7043947691683766323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 296
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999ad86f2ae46c446bd1b9ae0dda1c39
+      internalID: 6981716436233906145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 289
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee5fb374f4b5394090a0c7dd183a36a
+      internalID: -279786515552778088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 288
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b33937d7757124c83d9d2b995c9545
+      internalID: 5612171144189294251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 286
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b1f79dccbff7c4f868f093ba5d5a03
+      internalID: 8655624646173050964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 289
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c3162a1c7743b45bc062bd571554a4
+      internalID: 5187987331746146743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 289
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae04fd4b751aa84408d2f4d09e2a93d4
+      internalID: 6561169808113448244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 289
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d3a3dc7ea261d43aa5d0c7ca20edd6
+      internalID: 7737317566630488142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_22
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 297
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bef6cde01808d4dbe936f99ae4fe8a
+      internalID: 7011364588778254014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 297
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff58a2b44768ce74bbfc4af7b604321a
+      internalID: 8401859132097106981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_24
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 297
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44faaa2ea18e0bb4d970b5180456ce8e
+      internalID: 8620980720096361699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 248
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7c3825e9377a147b8b77aee27d8df4
+      internalID: -842316643847192797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 248
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ce2b6f7a9a1d2469fab9a896b9ca6e
+      internalID: 796640270005817992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 239
+        width: 95
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadfae8af6ddbca49a6be05dbeb870c2
+      internalID: 7511083344095837659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 244
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0388e02f1579b94d840a16bf3095b54
+      internalID: 8288632022021644802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_29
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 276
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1f874f44e5a224684fa11abd01b50b
+      internalID: 2714616680007618955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 241
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69f004ce186ccb498c6cafbb2692a59
+      internalID: -9147702272882441662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_31
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 241
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c68fad68f173384c945afaa51f580fc
+      internalID: -233140839306896172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 242
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87cca8196703f64a9a5c7d737fbfc36
+      internalID: -6448876372469642691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_33
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 236
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3503b84ff48ecff4794bff06ea9fe2fa
+      internalID: -4154702565493866975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_34
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 248
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17353f218fbce1c489ec39177dd1b42d
+      internalID: -9134345895058390119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_35
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 249
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f94d61288f782b40a1093dfcf39692e
+      internalID: -6835488429753163068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_36
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 248
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacaaa7f42c67c74e9a5e02015429bb1
+      internalID: -8814211091427476716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_37
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 197
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f4f01b1ab1052479f2f4a24f3d1377
+      internalID: -4077895988585197064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_38
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 195
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef322cc7b7a86cb47b1dabe9af6ccedf
+      internalID: -4808818471514144674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 197
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c4fbab71c6afa48b197b43074a348c
+      internalID: -8055997832063152789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_40
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 198
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4826cf61108616f4d93bd83fbf337c14
+      internalID: -1116372813245454199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 195
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f854aa02f040ec24d9729e4c94d7cd37
+      internalID: 3551958952328839350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_42
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 195
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4d4b7c8b06c2849ae560d0c9922fb2
+      internalID: -5501654611364277643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_43
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 192
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77410757851e94e42ba2d2c3078e5a87
+      internalID: -8997527534437792258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_44
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f435f219cdd81ef4f90eeef57296170d
+      internalID: -6212973882189418207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_45
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 192
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19724b6a2ee3bf14781124e856ce9af2
+      internalID: 6879286646707073055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_46
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 204
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0a0971c7f4f8e4795d745fc588f861
+      internalID: 8273256341816620211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_47
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 203
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5a26cd94389a6428b8e28fe057e586
+      internalID: 374031962313143947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_48
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 203
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e49503047f60645a07b6fd8188b54b
+      internalID: 3640951158497608037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8d0f08d2080c24ca368f61a1be6631
+      internalID: 3517283797342283553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_50
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 157
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b873a540e7d774b9368061110d7118
+      internalID: -232553395903669903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 153
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77dcc89b95fc1a4fa8056f4a0b5de5c
+      internalID: -618070401074222360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 147
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb50fdb918c2d7948a566e078082f86a
+      internalID: -4839706620415659346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_53
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 146
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e204d913c8c4ad344a3c9cdbadd62698
+      internalID: -8310090912572121295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_54
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 147
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88274902506f364e8962e63a7355452
+      internalID: -7669164002239681261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_55
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 148
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0475456b2140daa4b852ddbfb6f69e3f
+      internalID: 8845870686510752414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_56
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 148
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9857cf5b4eadf2744b5e3ecd6ccb6657
+      internalID: 8319596341119768052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_57
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 148
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236eed6a62a8f1f4e882edb8b40cdc20
+      internalID: 7563727388657465163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_58
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 144
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537f35ced6b950541beba8e049d231b0
+      internalID: 8735083636512674915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_59
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 146
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2e76bfdfadf6e4b9e89997b48ff0d6
+      internalID: 2685178248703032097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_60
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 144
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47adeabef52017945a787b5261909ec5
+      internalID: 7748891980361536149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 105
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6184f596244c6d41b72eddcf4691001
+      internalID: 5439358343426604643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 105
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb009f61bbf1dd545a137c44adfb3958
+      internalID: -5494972637580746930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 104
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85016d80a88c63b4abb1c1416897e9ed
+      internalID: -8081411667589670314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_64
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 98
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186b3b44868d51845864b7b35df3519f
+      internalID: 1481799894879724639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_65
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 99
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa66a7382859a945bd2b8b9e421ec37
+      internalID: -2990159590564102200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_66
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 100
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e318e5caaedd1b54fad1e5bb44293733
+      internalID: -3588693658568450866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_67
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 103
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac0e43dc74e58945af8ebbd88bf1311
+      internalID: -5853003606847092227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_68
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 103
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81051a96ddc94b04093e9731cc6b44c6
+      internalID: 6966230725163663836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_69
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 103
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ad21222397b7e499642283b8f286ee
+      internalID: -6764338338023009869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_70
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 100
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c26f5337eca0443a0e3fca183ba5cb
+      internalID: 4715249189422296344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_71
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 100
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9adc400325f2448997e5b0e2fff007
+      internalID: -5187992603988870918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_72
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 101
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eba2b058a069843ae9b3785137ff3f
+      internalID: 956337243203710965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_73
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 56
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4816a087b00f5e4f8da85b9bf0d2575
+      internalID: 2840717647564143270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_74
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 56
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187608317bf43194eb61a7bdde28423a
+      internalID: -4360003140870595818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_75
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 57
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d58066354422c04c8d9602472bedd10
+      internalID: -7172393098318614195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_76
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 50
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07c53f63aea5594c8b33f23eb438de8
+      internalID: 4576605359193964372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_77
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 51
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e18dc993137a742baccb7d9def06e7
+      internalID: 8021327378973109595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_78
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 52
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac14078c382efea428863f66181a962b
+      internalID: 2535350075905891136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_79
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 57
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fade1eff19701240b3fe641acef6434
+      internalID: 8327936226481647916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_80
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 57
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368916aa72253f8468b7357ec5ceac5e
+      internalID: 2165109451028856631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_81
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 57
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c671019b5d46946aef8b1b2e11b055
+      internalID: -4983170602749674200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_82
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 53
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16081bbe18f3ebc4cb12a6ae5f963b9b
+      internalID: -7239798877353006637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_83
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 53
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dc73b4bbbffb94ebf5179fc31e4ae7
+      internalID: 638679373665992946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_84
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 54
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606f77d42b0cfe3409a60d2bbe2155ec
+      internalID: 6296331234431157147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4ed45c1a15c224a8f1e4e3c6f6160d
+      internalID: -7081576031565006767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_86
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 8
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff186314d3f7a245b3ec3e8079655bb
+      internalID: 2460831700197237560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_87
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 6
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7d5fae13c44a2498d6aa9a5f4aee9a
+      internalID: -7613549028663231745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_88
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a8658ba71f4974b9fec39c859d2434
+      internalID: 5509208466945770710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_89
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2468a6c3d5d789f4e91836980743894f
+      internalID: 3469500520194856215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_90
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5290c933589dc034f8d35782b2557bcf
+      internalID: -3095381305497843420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_91
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 6
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f79ac88f19390498f8507ae694ca14
+      internalID: 1308773987036605279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_92
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 8
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbbe409abd246149a3f0d9964e9d49a
+      internalID: 4478858024699046197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_93
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 6
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0779749a34f38d4dbc695ff69aea114
+      internalID: 2895996859695899498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_94
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 6
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a109434e0543fd4992cc2afc7f144f4
+      internalID: 3569838185347599270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_95
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 7
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6ad2578056d8e4a9422af80eeb5987
+      internalID: -4416084291613439898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: m-v-clipart-1_96
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 6
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2727590a420ba464497f4839d45e3392
+      internalID: 4513855435060191875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1306 @@
+fileFormatVersion: 2
+guid: 87e046f305470834b9b564bf40529129
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4393752314952472033
+    second: one eyes demon_0
+  - first:
+      213: -5601522704919219614
+    second: one eyes demon_1
+  - first:
+      213: 242324000163130963
+    second: one eyes demon_2
+  - first:
+      213: 5400558783387096692
+    second: one eyes demon_3
+  - first:
+      213: 3199734926185578730
+    second: one eyes demon_4
+  - first:
+      213: 1321606262854294081
+    second: one eyes demon_5
+  - first:
+      213: -6110541526823314723
+    second: one eyes demon_6
+  - first:
+      213: -4492832543435334305
+    second: one eyes demon_6
+  - first:
+      213: -2043310353466408482
+    second: one eyes demon_8
+  - first:
+      213: -6220097758113997143
+    second: one eyes demon_7
+  - first:
+      213: -3541419905211863477
+    second: one eyes demon_10
+  - first:
+      213: 2264618887610642084
+    second: one eyes demon_11
+  - first:
+      213: -8180366899633494604
+    second: one eyes demon_12
+  - first:
+      213: 5409149501995469515
+    second: one eyes demon_13
+  - first:
+      213: 26363335228182064
+    second: one eyes demon_14
+  - first:
+      213: -564632149954056793
+    second: one eyes demon_15
+  - first:
+      213: -171769017120622471
+    second: one eyes demon_16
+  - first:
+      213: 7166327204383308336
+    second: one eyes demon_17
+  - first:
+      213: -6815714661224286429
+    second: one eyes demon_18
+  - first:
+      213: 1000386178498413766
+    second: one eyes demon_19
+  - first:
+      213: -2641650282320180356
+    second: one eyes demon_20
+  - first:
+      213: 6698554689443343967
+    second: one eyes demon_21
+  - first:
+      213: -7053675843646995401
+    second: one eyes demon_22
+  - first:
+      213: -869327142704020777
+    second: one eyes demon_23
+  - first:
+      213: -6281645087893924060
+    second: one eyes demon_24
+  - first:
+      213: -8875608351903850262
+    second: one eyes demon_25
+  - first:
+      213: 8971276907210957851
+    second: one eyes demon_26
+  - first:
+      213: 8863522565064715728
+    second: one eyes demon_27
+  - first:
+      213: 2083685259267441262
+    second: one eyes demon_28
+  - first:
+      213: -7700825419726697398
+    second: one eyes demon_29
+  - first:
+      213: 1306290978888994314
+    second: one eyes demon_30
+  - first:
+      213: 7044618695150652660
+    second: one eyes demon_31
+  - first:
+      213: 152738613616527807
+    second: one eyes demon_32
+  - first:
+      213: -6622512019175434341
+    second: one eyes demon_33
+  - first:
+      213: 3966259533320455125
+    second: one eyes demon_34
+  - first:
+      213: 8742156606894000802
+    second: one eyes demon_35
+  - first:
+      213: -9135401427615373769
+    second: one eyes demon_36
+  - first:
+      213: -1309903375130971807
+    second: one eyes demon_37
+  - first:
+      213: -6348232731000492210
+    second: one eyes demon_38
+  - first:
+      213: -3486144492227595313
+    second: one eyes demon_39
+  - first:
+      213: -302036156901553185
+    second: one eyes demon_40
+  - first:
+      213: -7226885392339869345
+    second: one eyes demon_41
+  - first:
+      213: 8532922746860507368
+    second: one eyes demon_42
+  - first:
+      213: -7824237199136720406
+    second: one eyes demon_43
+  - first:
+      213: -2777695665242457846
+    second: one eyes demon_44
+  - first:
+      213: 3475303808090275261
+    second: one eyes demon_45
+  - first:
+      213: -1894040488639325470
+    second: one eyes demon_46
+  - first:
+      213: 1783632283118050050
+    second: one eyes demon_47
+  - first:
+      213: 1751679555021152348
+    second: one eyes demon_48
+  - first:
+      213: 729244577166011789
+    second: one eyes demon_49
+  - first:
+      213: -67052441530283556
+    second: one eyes demon_50
+  - first:
+      213: -956580843223556161
+    second: one eyes demon_51
+  - first:
+      213: -162086028898074
+    second: one eyes demon_52
+  - first:
+      213: 8966117435318612079
+    second: one eyes demon_53
+  - first:
+      213: -3615675299870148857
+    second: one eyes demon_54
+  - first:
+      213: -479072802804303253
+    second: one eyes demon_55
+  - first:
+      213: -6468686108154296294
+    second: one eyes demon_56
+  - first:
+      213: 1781178893645242416
+    second: one eyes demon_57
+  - first:
+      213: 6538378421021845062
+    second: one eyes demon_58
+  - first:
+      213: -4004535145782649568
+    second: one eyes demon_59
+  - first:
+      213: 7595239015829638874
+    second: one eyes demon_60
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: one eyes demon_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1632
+        width: 350
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3729e9e08590edc40a4428377041e8bb
+      internalID: -4393752314952472033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_1
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1627
+        width: 358
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f35c1a5946ebe43afd2d2d37979e5d
+      internalID: -5601522704919219614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_2
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1623
+        width: 363
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd856077f9b8aa4cb2927be60771a34
+      internalID: 242324000163130963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_3
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1619
+        width: 362
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bac4f742ce86b94a8d510d4992a71d9
+      internalID: 5400558783387096692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_4
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1595
+        width: 406
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faba23e4d1502d428ad34171d4fe083
+      internalID: 3199734926185578730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1087
+        width: 495
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e491b3f45f61841b5f88ab82d8914e
+      internalID: 1321606262854294081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1079
+        width: 498
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140a5a3f9854e9240b018192f406c2a5
+      internalID: -6110541526823314723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_8
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1247
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c354ef7cd59784e8618e590bd508fc
+      internalID: -2043310353466408482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_7
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1029
+        width: 487
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada87ea656ac61e458039695527a5866
+      internalID: -6220097758113997143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_10
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1119
+        width: 350
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018a68bbb9951c746b4bb42f7e9b424e
+      internalID: -3541419905211863477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_11
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 1123
+        width: 350
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869229186f8785a4fbb02487ce4c1dcd
+      internalID: 2264618887610642084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_12
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1239
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fb753ab3c23e445b04739fc67ba58b
+      internalID: -8180366899633494604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_13
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1227
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cfd977b01d1f94f82246edc727c66b
+      internalID: 5409149501995469515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_14
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1232
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9238c7bba1a4ddc4f8413d92bdef81f9
+      internalID: 26363335228182064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_15
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1227
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f68a5fbfb108ed41b2ca7b9dcb8c30d
+      internalID: -564632149954056793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_16
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1223
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43bd505b1bf7a842aa0af4629a45d70
+      internalID: -171769017120622471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_17
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1223
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653eeea1c2d72334591e5d19b20068d9
+      internalID: 7166327204383308336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_18
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1215
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e331b3f3d183d1947af2933dfdda12c7
+      internalID: -6815714661224286429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_19
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1192
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b99dd8cbded084e830ddfbd234323d
+      internalID: 1000386178498413766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_20
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1172
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc0b213287ad8447ad157e3d6030f05
+      internalID: -2641650282320180356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_21
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1183
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a845df04ecfd3468b5264139385dc9
+      internalID: 6698554689443343967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_22
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1155
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d829985148b0d14687d30a453dd561f
+      internalID: -7053675843646995401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_23
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1155
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0ed79c53837af408439fedbb2e0b54
+      internalID: -869327142704020777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_24
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d119153caee704599aea5de8b79b12
+      internalID: -6281645087893924060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_25
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1139
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446cafa06864c6f48bf563d66ba9deac
+      internalID: -8875608351903850262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_26
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1147
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a88f1658719db4f8d029afb0a42a61
+      internalID: 8971276907210957851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_27
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1127
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf654ad3d39b7494da6168f5279964f9
+      internalID: 8863522565064715728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_28
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1127
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4072d6db3da612342854916b5f80259e
+      internalID: 2083685259267441262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_34
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376a3589158dd7145832b7f9cb5fb4f3
+      internalID: 3966259533320455125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_37
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1095
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2144378839f4e842a2719071153d84a
+      internalID: -1309903375130971807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_38
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1107
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccff38ad721749e4dafbca8b408c4709
+      internalID: -6348232731000492210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_40
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1107
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808ac6b5c5cedcb46bad0af8e4d79921
+      internalID: -302036156901553185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_43
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1092
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20219098c4254b74f9162b843f1303d1
+      internalID: -7824237199136720406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_44
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1079
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b5ff6dd27c68041b3a95b8a6c96ffe
+      internalID: -2777695665242457846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_45
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1087
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c683d3602864b4bb57d6063d2956df
+      internalID: 3475303808090275261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_48
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1072
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed816e9dbe39c34ba69c8d2a3a7193b
+      internalID: 1751679555021152348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_49
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1059
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081b1c75b604c6746a68fc56cad4691c
+      internalID: 729244577166011789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_50
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1055
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39348b43dcce11c4caacf13721dc5c6d
+      internalID: -67052441530283556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_51
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1047
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fcb7be0d4dfa14499f4a9623155be6
+      internalID: -956580843223556161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_52
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1047
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42e4b13ef21c0047a8ee74e4bdd356f
+      internalID: -162086028898074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_53
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1032
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d2a15c4dc3fe64c8d3331f598332a4
+      internalID: 8966117435318612079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_54
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1032
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaea2f307bfd37e4ebcfa384576dd2ec
+      internalID: -3615675299870148857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_55
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 615
+        width: 350
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839601d2aacce7249b8e1da9c9a702f2
+      internalID: -479072802804303253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_56
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 611
+        width: 350
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996beeb5dfd23cb43b991156d2af0bdc
+      internalID: -6468686108154296294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_57
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 608
+        width: 350
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1d404f216a9484dbfa05cd6a70dc47
+      internalID: 1781178893645242416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_58
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 611
+        width: 350
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cedaba93e6761246a715526949f4eff
+      internalID: 6538378421021845062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_59
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 615
+        width: 350
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70332d345c7c5704f98eadd234e88b19
+      internalID: -4004535145782649568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: one eyes demon_60
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 99
+        width: 350
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2aa910cef48354cbc06636a64ba08d
+      internalID: 7595239015829638874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
