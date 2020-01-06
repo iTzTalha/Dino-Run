@@ -222,7 +222,7 @@ PrefabInstance:
     - target: {fileID: 4766797916665097748, guid: 0c60dd216a12e8c43a8c00c81ceaa9f0,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4766797916665097748, guid: 0c60dd216a12e8c43a8c00c81ceaa9f0,
         type: 3}
@@ -239,6 +239,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4766797916665097749, guid: 0c60dd216a12e8c43a8c00c81ceaa9f0,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4766797916665097769, guid: 0c60dd216a12e8c43a8c00c81ceaa9f0,
         type: 3}
       propertyPath: m_Name
@@ -247,22 +252,10 @@ PrefabInstance:
     - target: {fileID: 4766797916665097769, guid: 0c60dd216a12e8c43a8c00c81ceaa9f0,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c60dd216a12e8c43a8c00c81ceaa9f0, type: 3}
---- !u!114 &37272420 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4766797916665097751, guid: 0c60dd216a12e8c43a8c00c81ceaa9f0,
-    type: 3}
-  m_PrefabInstance: {fileID: 37272419}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f678861af410f624898dded9133d9eb6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &95066000
 GameObject:
   m_ObjectHideFlags: 0
@@ -1056,7 +1049,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &538357170
 GameObject:
@@ -3451,9 +3444,12 @@ MonoBehaviour:
   - {fileID: 162725435}
   - {fileID: 1113653601}
   _Enemies:
-  - {fileID: 6949516771904005769, guid: f0aa0acabcd71b24881c6241ea214df7, type: 3}
+  - {fileID: 2654038363143609977, guid: 01809291e723f3a4481661dffe5f4254, type: 3}
+  - {fileID: 4540498602672601677, guid: cb5812c43dd3775448017c5326cd8434, type: 3}
+  - {fileID: 4250783383919575378, guid: d22d61ea6ff02e0439ec63a4938aa5c7, type: 3}
+  - {fileID: 2281253649331630963, guid: 1bbcef6c587091e409e6fad49a422859, type: 3}
+  - {fileID: 2248382274456270428, guid: 88aad3e1afd89c74ca03f10b97b39b33, type: 3}
   enemieSpawnPoint: {fileID: 1481875747}
-  player: {fileID: 37272420}
   startTimeBtwSpawn: 3
   decreaseTime: 0.05
   minTime: 1

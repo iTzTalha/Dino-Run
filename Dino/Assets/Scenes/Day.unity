@@ -752,11 +752,11 @@ MonoBehaviour:
   - {fileID: 916734850}
   - {fileID: 56461478}
   _Enemies:
-  - {fileID: 6915001738781783298, guid: a50259aaef3b6ab45b235053a1626357, type: 3}
   - {fileID: 7964509818837250511, guid: 7912211b53cb3bb4aad107c607f0c317, type: 3}
-  - {fileID: 2290940889698825890, guid: abbe5b5a244de8a4e918d611af543f4b, type: 3}
-  - {fileID: 4185146873389825592, guid: cf6d51d9962764b44998283d1dc54bf7, type: 3}
   - {fileID: 7901568135391103897, guid: 4d2fe4f6b0287844a9006be3ac5cf6e6, type: 3}
+  - {fileID: 6915001738781783298, guid: a50259aaef3b6ab45b235053a1626357, type: 3}
+  - {fileID: 4185146873389825592, guid: cf6d51d9962764b44998283d1dc54bf7, type: 3}
+  - {fileID: 3565322593024811102, guid: 6ffba0b054ccc2043b02eefe2eaecee4, type: 3}
   enemieSpawnPoint: {fileID: 1348532802}
   startTimeBtwSpawn: 3
   decreaseTime: 0.05

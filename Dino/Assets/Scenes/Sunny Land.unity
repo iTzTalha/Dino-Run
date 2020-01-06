@@ -5823,18 +5823,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c60dd216a12e8c43a8c00c81ceaa9f0, type: 3}
---- !u!114 &507486390 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4766797916665097751, guid: 0c60dd216a12e8c43a8c00c81ceaa9f0,
-    type: 3}
-  m_PrefabInstance: {fileID: 507486389}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f678861af410f624898dded9133d9eb6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &513686241
 GameObject:
   m_ObjectHideFlags: 0
@@ -8534,7 +8522,6 @@ MonoBehaviour:
   - {fileID: 6705507107100442323, guid: 8f3f2c893280b0e4a96509c695fab024, type: 3}
   - {fileID: 3732861474310944498, guid: 53860c4817c4c8d45a06bb6b8b311bcd, type: 3}
   enemieSpawnPoint: {fileID: 1524403696}
-  player: {fileID: 507486390}
   startTimeBtwSpawn: 3
   decreaseTime: 0.05
   minTime: 1

@@ -1346,18 +1346,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0c60dd216a12e8c43a8c00c81ceaa9f0, type: 3}
---- !u!114 &501605913 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4766797916665097751, guid: 0c60dd216a12e8c43a8c00c81ceaa9f0,
-    type: 3}
-  m_PrefabInstance: {fileID: 501605912}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f678861af410f624898dded9133d9eb6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &510192962
 GameObject:
   m_ObjectHideFlags: 0
@@ -6167,9 +6155,11 @@ MonoBehaviour:
   - {fileID: 1641032440}
   - {fileID: 1105396449}
   _Enemies:
-  - {fileID: 4509870404937752422, guid: 08ddeae4ed36a1d4c947b18499a1b1dc, type: 3}
+  - {fileID: 3216882744208382852, guid: 8014b01dae7442343a3efc697d9b4eb1, type: 3}
+  - {fileID: 3877564708404432708, guid: 9a2d1568ecb8d2940a62e501579b5f42, type: 3}
+  - {fileID: 5456976432540536009, guid: 070561f3613edd54899bc7786724a123, type: 3}
+  - {fileID: 3060520438434792353, guid: 1366d0c203da19f478fc87e2819d4c1e, type: 3}
   enemieSpawnPoint: {fileID: 310630383}
-  player: {fileID: 501605913}
   startTimeBtwSpawn: 3
   decreaseTime: 0.05
   minTime: 1
