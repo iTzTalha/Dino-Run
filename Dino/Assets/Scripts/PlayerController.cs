@@ -7,14 +7,12 @@ public class PlayerController : MonoBehaviour
     [SerializeField]
     private float _downPower;
     Rigidbody2D myRigidbody;
-    private bool isGround, isDead;
-    [SerializeField]
+    private bool isGround;
     private Animator animator;
     private float _screenWigth;
-    public GameManager gameManager;
-    private Touch touch;
+    private GameManager gameManager;
 
-    public bool IsDead { get => isDead;}
+    public bool IsDead { get; private set; }
 
     // Start is called before the first frame update
     void Start()
@@ -22,7 +20,7 @@ public class PlayerController : MonoBehaviour
         gameManager = GameObject.Find("Game Manager").GetComponent<GameManager>();
 
         _screenWigth = Screen.width;
-        myRigidbody = GetComponent<Rigidbody2D>();
+        myRigidbody = GetComponent<Rigidbody2D>();       
         animator = GetComponent<Animator>();
     }
 
@@ -30,28 +28,27 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
 
-        if (!isDead && !gameManager.IsPaused)
+        if (!IsDead && !gameManager.IsPaused)
         {
             //Space to Jump
-            if (Input.GetKeyDown(KeyCode.Space) && !isDead && isGround)
+            if (Input.GetKeyDown(KeyCode.Space) && !IsDead && isGround)
             {
                 myRigidbody.AddForce(Vector2.up * _jumpPower * myRigidbody.mass * myRigidbody.gravityScale * Time.deltaTime);
                 animator.SetBool("Jump", true);
             }
-            else if (Input.GetKeyUp(KeyCode.Space) && !isDead && isGround)
+            else if (Input.GetKeyUp(KeyCode.Space) && !IsDead && isGround)
             {
                 animator.SetBool("Jump", false);
             }
 
             //S to crouch
-            if (Input.GetKeyDown(KeyCode.S) && !isDead)
+            if (Input.GetKeyDown(KeyCode.S) && !IsDead)
             {
                 myRigidbody.AddForce(-Vector2.up * _downPower * myRigidbody.mass * myRigidbody.gravityScale * Time.deltaTime);
                 animator.SetBool("Down", true);
             }
-            else if (Input.GetKeyUp(KeyCode.S) && !isDead)
+            else if (Input.GetKeyUp(KeyCode.S) && !IsDead)
             {
-
                 animator.SetBool("Down", false);
             }
 
@@ -118,15 +115,10 @@ public class PlayerController : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.tag == "Enemy")
-        {
-            
-            isDead = true;
+        {         
+            IsDead = true;
             Time.timeScale = 0;
-            animator.SetBool("Die", true);
-            myRigidbody.velocity = Vector2.zero; 
-
-        }
-      
+            animator.SetBool("Die", true);     
+        }  
     }
-
 }

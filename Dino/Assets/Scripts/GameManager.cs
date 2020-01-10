@@ -3,17 +3,13 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-    [SerializeField]
-    private BackgroundElement[] backgroundElements;
-
-    [SerializeField]
-    private GameObject[] _Enemies;
-
-    [SerializeField]
-    private Transform enemieSpawnPoint;
-    //public float _scrollSpeed = 10f;
-
+    [SerializeField] private BackgroundElement[] backgroundElements;
+    [SerializeField] private GameObject[] _Player;
+    [SerializeField] private GameObject[] _Enemies;
+    [SerializeField] private Transform enemieSpawnPoint;
+    int getCharacter;
     private PlayerController player;
+    public int levelIndex;
 
     //SpawnManager
     float timeBtwSpawn;
@@ -26,10 +22,7 @@ public class GameManager : MonoBehaviour
     public Text highScore;
     int Score = 0;
     private UIManager _uIManager;
-
-    private bool isPaused;
-
-    public bool IsPaused { get => isPaused; set => isPaused = value; }
+    public bool IsPaused { get; set; }
 
     // Start is called before the first frame update
     void Start()
@@ -39,11 +32,7 @@ public class GameManager : MonoBehaviour
 
         _uIManager = GameObject.Find("Canvas").GetComponent<UIManager>();
 
-        if(GameObject.FindGameObjectWithTag("Player") != null)
-        {
-            player = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
-        }
-      
+        SpwanPlayer();
 
         foreach (GameObject element in _Enemies)
         {
@@ -54,7 +43,6 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-   
             if (!player.IsDead && !IsPaused)
             {
                 Score++;
@@ -72,8 +60,9 @@ public class GameManager : MonoBehaviour
                     element.move();
                 }
 
-                if (Score >= 1000)
+                if (Score == 1000)
                 {
+                    saveScoreForNextLevel();
                     foreach (GameObject element in _Enemies)
                     {
                         element.GetComponent<ObstacleControl>().moveSpeed = -6f;
@@ -86,42 +75,42 @@ public class GameManager : MonoBehaviour
                         element.GetComponent<ObstacleControl>().moveSpeed = -7f;
                     }
                 }
-                if (Score >= 3000)
+                if (Score == 3000)
                 {
                     foreach (GameObject element in _Enemies)
                     {
                         element.GetComponent<ObstacleControl>().moveSpeed = -8f;
                     }
                 }
-                if (Score >= 4000)
+                if (Score == 4000)
                 {
                     foreach (GameObject element in _Enemies)
                     {
                         element.GetComponent<ObstacleControl>().moveSpeed = -9f;
                     }
                 }
-                if (Score >= 5000)
+                if (Score == 5000)
                 {
                     foreach (GameObject element in _Enemies)
                     {
                         element.GetComponent<ObstacleControl>().moveSpeed = -10f;
                     }
                 }
-                if (Score >= 7000)
+                if (Score == 7000)
                 {
                     foreach (GameObject element in _Enemies)
                     {
                         element.GetComponent<ObstacleControl>().moveSpeed = -11f;
                     }
                 }
-                if (Score >= 9000)
+                if (Score == 9000)
                 {
                     foreach (GameObject element in _Enemies)
                     {
                         element.GetComponent<ObstacleControl>().moveSpeed = -12f;
                     }
                 }
-                if (Score >= 10000)
+                if (Score == 10000)
                 {
                     foreach (GameObject element in _Enemies)
                     {
@@ -129,9 +118,11 @@ public class GameManager : MonoBehaviour
                     }
                 }
             }
-        
 
-        
+        if (player.IsDead)
+        {
+            _uIManager.showGameOverScreen();
+        }
 
         //Spawn Enemies
         if (timeBtwSpawn <= 0)
@@ -142,19 +133,34 @@ public class GameManager : MonoBehaviour
         {
             timeBtwSpawn -= Time.deltaTime;
         }
-        /*
-            GameObject currentChild;
-            for (int i = 0; i < transform.childCount; i++)
-            {
-                currentChild = transform.GetChild(i).gameObject;
-                ScrollEnemies(currentChild);
-            }
-            */
-        if (player.IsDead)
+    }
+
+    void SpwanPlayer()
+    {
+        getCharacter = PlayerPrefs.GetInt("CharacterSelected");
+
+        switch (getCharacter)
         {
-            _uIManager.showGameOverScreen();
+            case 0:
+                Instantiate(_Player[0], new Vector3(-6, -2, 0), Quaternion.identity);
+                break;
+            case 1:
+                Instantiate(_Player[1], new Vector3(-6, -2, 0), Quaternion.identity);
+                break;
+            case 2:
+                Instantiate(_Player[2], new Vector3(-6, -2, 0), Quaternion.identity);
+                break;
+            case 3:
+                Instantiate(_Player[3], new Vector3(-6, -2, 0), Quaternion.identity);
+                break;  
         }
 
+        player = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
+        /*
+        foreach (GameObject child in _Player)
+        {
+            player = child.GetComponent<PlayerController>();
+        }*/
     }
 
     void SpawnObstacle()
@@ -172,8 +178,14 @@ public class GameManager : MonoBehaviour
         
     }
 
-  /*  private void ScrollEnemies(GameObject currentEnemy)
+    private void saveScoreForNextLevel()
     {
-        currentEnemy.transform.position += Vector3.left * _scrollSpeed * Time.deltaTime;
-    }*/
+
+        PlayerPrefs.SetInt("Lv" + levelIndex, Score);
+
+        //Debug.Log(PlayerPrefs.GetInt("Lv" + levelIndex, Score));
+        //BackButton();
+        //MARKER Each level has saved their own stars number
+        //CORE PLayerPrefs.getInt("KEY", "VALUE"); We can use the KEY to find Our VALUE   
+    }
 }

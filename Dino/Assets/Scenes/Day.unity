@@ -758,6 +758,7 @@ MonoBehaviour:
   - {fileID: 4185146873389825592, guid: cf6d51d9962764b44998283d1dc54bf7, type: 3}
   - {fileID: 3565322593024811102, guid: 6ffba0b054ccc2043b02eefe2eaecee4, type: 3}
   enemieSpawnPoint: {fileID: 1348532802}
+  levelIndex: 3
   startTimeBtwSpawn: 3
   decreaseTime: 0.05
   minTime: 1
@@ -1970,7 +1971,7 @@ PrefabInstance:
     - target: {fileID: 4766797916665097748, guid: 0c60dd216a12e8c43a8c00c81ceaa9f0,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4766797916665097748, guid: 0c60dd216a12e8c43a8c00c81ceaa9f0,
         type: 3}
@@ -2379,7 +2380,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &964162170
 GameObject:

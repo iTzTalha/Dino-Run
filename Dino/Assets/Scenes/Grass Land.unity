@@ -3335,6 +3335,7 @@ MonoBehaviour:
   - {fileID: 8085795686562385051, guid: 9b4bc9d6d35a4fd4d848bd9317426594, type: 3}
   - {fileID: 6223587598254775050, guid: 794e8acd5a01341449da49a970674281, type: 3}
   enemieSpawnPoint: {fileID: 185372341}
+  levelIndex: 5
   startTimeBtwSpawn: 3
   decreaseTime: 0.05
   minTime: 1
