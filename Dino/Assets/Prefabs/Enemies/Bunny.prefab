@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 7964509818837250508}
   - component: {fileID: 7964509818837250509}
   - component: {fileID: 7964509818837250510}
+  - component: {fileID: 5438077615832428211}
   m_Layer: 0
   m_Name: Bunny
   m_TagString: Enemy
@@ -116,7 +117,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65badab3f30530240a006bd71dd4238b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: -8
+  moveSpeed: -5
 --- !u!50 &7964509818837250508
 Rigidbody2D:
   serializedVersion: 4
@@ -132,12 +133,12 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 10
+  m_GravityScale: 50
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
+  m_CollisionDetection: 1
+  m_Constraints: 4
 --- !u!61 &7964509818837250509
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -151,7 +152,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0017366931, y: -0.19711107}
+  m_Offset: {x: 0.016419396, y: -0.19711107}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -162,7 +163,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.124654055, y: 0.045777857}
+  m_Size: {x: 0.15401946, y: 0.045777857}
   m_EdgeRadius: 0
 --- !u!61 &7964509818837250510
 BoxCollider2D:
@@ -177,7 +178,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0052099526, y: -0.053836465}
+  m_Offset: {x: -0.00041430816, y: -0.08340964}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -188,5 +189,21 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.12812741, y: 0.33232707}
+  m_Size: {x: 0.11853612, y: 0.27318072}
   m_EdgeRadius: 0
+--- !u!58 &5438077615832428211
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7964509818837250511}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.02317903, y: 0.06234342}
+  serializedVersion: 2
+  m_Radius: 0.05455005

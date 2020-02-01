@@ -2,15 +2,15 @@
 
 public class PlayerController : MonoBehaviour
 {
-    [SerializeField]
-    private float _jumpPower;
-    [SerializeField]
-    private float _downPower;
+    [SerializeField] private float _jumpPower;
+    //[SerializeField] private float _downPower;
     Rigidbody2D myRigidbody;
     private bool isGround;
     private Animator animator;
     private float _screenWigth;
     private GameManager gameManager;
+    private bool canJump = false;
+    private bool canCrouch = false;
 
     public bool IsDead { get; private set; }
 
@@ -27,61 +27,64 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
         if (!IsDead && !gameManager.IsPaused)
         {
-            //Space to Jump
-            if (Input.GetKeyDown(KeyCode.Space) && !IsDead && isGround)
+            //Keyboard Inputs
+            if (Input.GetKeyDown(KeyCode.Space) && isGround)
             {
-                myRigidbody.AddForce(Vector2.up * _jumpPower * myRigidbody.mass * myRigidbody.gravityScale * Time.deltaTime);
-                animator.SetBool("Jump", true);
-            }
-            else if (Input.GetKeyUp(KeyCode.Space) && !IsDead && isGround)
-            {
-                animator.SetBool("Jump", false);
+                canJump = true;
             }
 
-            //S to crouch
-            if (Input.GetKeyDown(KeyCode.S) && !IsDead)
+            if (Input.GetKeyDown(KeyCode.S) && isGround)
             {
-                myRigidbody.AddForce(-Vector2.up * _downPower * myRigidbody.mass * myRigidbody.gravityScale * Time.deltaTime);
-                animator.SetBool("Down", true);
+                canCrouch = true;
             }
-            else if (Input.GetKeyUp(KeyCode.S) && !IsDead)
+            else if (Input.GetKeyUp(KeyCode.S))
             {
                 animator.SetBool("Down", false);
             }
 
-            //for mobile controls
+            //Mobile Inputs
             int i = 0;
-
             while (i < Input.touchCount)
             {
-                //touch right to crouch
-                if (Input.GetTouch(i).position.x > _screenWigth / 2 && Input.GetTouch(0).phase == TouchPhase.Began)
+                if (Input.GetTouch(i).position.x < _screenWigth / 2 && Input.GetTouch(i).phase == TouchPhase.Began && isGround)
                 {
-                    myRigidbody.AddForce(-Vector2.up * _downPower * myRigidbody.mass * myRigidbody.gravityScale * Time.deltaTime);
-                    animator.SetBool("Down", true);
-                }
-                else if (Input.GetTouch(i).position.x > _screenWigth / 2 && Input.GetTouch(0).phase == TouchPhase.Ended)
-                {
-                    animator.SetBool("Down", false);
+                    canJump = true;
                 }
 
-                //touch left to Jump
-                if (Input.GetTouch(i).position.x < _screenWigth / 2 && Input.GetTouch(0).phase == TouchPhase.Began && isGround)
+                if (Input.GetTouch(i).position.x > _screenWigth / 2 && Input.GetTouch(i).phase == TouchPhase.Began && isGround)
                 {
-                    myRigidbody.AddForce(Vector2.up * _jumpPower * myRigidbody.mass * myRigidbody.gravityScale * Time.deltaTime);
-                    animator.SetBool("Jump", true);
+                    canCrouch = true;
                 }
-                else if (Input.GetTouch(i).position.x < _screenWigth / 2 && Input.GetTouch(0).phase == TouchPhase.Ended)
+                else if (Input.GetTouch(i).position.x > _screenWigth / 2 && Input.GetTouch(i).phase == TouchPhase.Ended)
                 {
                     animator.SetBool("Down", false);
                 }
                 ++i;
             }
         }
+    }   
 
+    void FixedUpdate()
+    {
+        //Jump
+        if (canJump)
+        {
+            myRigidbody.AddForce(Vector2.up * _jumpPower * myRigidbody.mass * myRigidbody.gravityScale * Time.deltaTime);
+            animator.SetBool("Jump", true);
+            animator.SetBool("Down", false);
+            isGround = false;
+            canJump = false;
+        }
+
+        //crouch
+        if (canCrouch)
+        {
+            // myRigidbody.AddForce(-Vector2.up * _downPower * myRigidbody.mass * myRigidbody.gravityScale * Time.deltaTime);
+            animator.SetBool("Down", true);
+            canCrouch = false;
+        }
     }
 
     //jump only when colided with ground

@@ -7,9 +7,12 @@ public class GameManager : MonoBehaviour
     [SerializeField] private GameObject[] _Player;
     [SerializeField] private GameObject[] _Enemies;
     [SerializeField] private Transform enemieSpawnPoint;
+    [SerializeField] private Transform playerSpawnPoint;
     int getCharacter;
     private PlayerController player;
     public int levelIndex;
+
+    AudioSource audioSource;
 
     //SpawnManager
     float timeBtwSpawn;
@@ -19,8 +22,10 @@ public class GameManager : MonoBehaviour
 
     //UI 
     public Text currentScore;
-    public Text highScore;
+    private int highScore;
+    public int HighScore { get => highScore; set => highScore = value; }
     int Score = 0;
+    bool scorePlaying;
     private UIManager _uIManager;
     public bool IsPaused { get; set; }
 
@@ -28,16 +33,20 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         Time.timeScale = 1f;
-        highScore.text = PlayerPrefs.GetInt("HighScore0", 0).ToString();
-
-        _uIManager = GameObject.Find("Canvas").GetComponent<UIManager>();
 
         SpwanPlayer();
+
+        HighScore = PlayerPrefs.GetInt("HighScore0", 0);
+
+        _uIManager = GameObject.Find("Canvas").GetComponent<UIManager>();
 
         foreach (GameObject element in _Enemies)
         {
             element.GetComponent<ObstacleControl>().moveSpeed = -5f;
         }
+
+        audioSource = GetComponent<AudioSource>();
+        audioSource.Play();
     }
 
     // Update is called once per frame
@@ -45,13 +54,14 @@ public class GameManager : MonoBehaviour
     {
             if (!player.IsDead && !IsPaused)
             {
-                Score++;
-                currentScore.text = Score.ToString();
+                 scorePlaying = true;
+                 saveScoreForNextLevel();               
+                 currentScore.text = Score.ToString();
 
                 if (Score > PlayerPrefs.GetInt("HighScore0", 0))
                 {
                     PlayerPrefs.SetInt("HighScore0", Score);
-                    highScore.text = PlayerPrefs.GetInt("HighScore0").ToString();
+                    HighScore = PlayerPrefs.GetInt("HighScore0");
 
                 }
 
@@ -59,69 +69,55 @@ public class GameManager : MonoBehaviour
                 {
                     element.move();
                 }
-
-                if (Score == 1000)
+           
+            foreach (GameObject element in _Enemies)
+            {
+                switch (Score)
                 {
-                    saveScoreForNextLevel();
-                    foreach (GameObject element in _Enemies)
-                    {
+                    case 0:
                         element.GetComponent<ObstacleControl>().moveSpeed = -6f;
-                    }
-                }
-                if (Score >= 2000)
-                {
-                    foreach (GameObject element in _Enemies)
-                    {
-                        element.GetComponent<ObstacleControl>().moveSpeed = -7f;
-                    }
-                }
-                if (Score == 3000)
-                {
-                    foreach (GameObject element in _Enemies)
-                    {
+                        break;
+                    case 1000:
                         element.GetComponent<ObstacleControl>().moveSpeed = -8f;
-                    }
-                }
-                if (Score == 4000)
-                {
-                    foreach (GameObject element in _Enemies)
-                    {
-                        element.GetComponent<ObstacleControl>().moveSpeed = -9f;
-                    }
-                }
-                if (Score == 5000)
-                {
-                    foreach (GameObject element in _Enemies)
-                    {
+                        break;
+                    case 2000:
                         element.GetComponent<ObstacleControl>().moveSpeed = -10f;
-                    }
-                }
-                if (Score == 7000)
-                {
-                    foreach (GameObject element in _Enemies)
-                    {
-                        element.GetComponent<ObstacleControl>().moveSpeed = -11f;
-                    }
-                }
-                if (Score == 9000)
-                {
-                    foreach (GameObject element in _Enemies)
-                    {
+                        break;
+                    case 3000:
                         element.GetComponent<ObstacleControl>().moveSpeed = -12f;
-                    }
-                }
-                if (Score == 10000)
-                {
-                    foreach (GameObject element in _Enemies)
-                    {
-                        element.GetComponent<ObstacleControl>().moveSpeed = -13f;
-                    }
+                        break;
+                    case 4000:
+                        element.GetComponent<ObstacleControl>().moveSpeed = -14f;
+                        break;
+                    case 5000:
+                        element.GetComponent<ObstacleControl>().moveSpeed = -16f;
+                        break;
+                    case 6000:
+                        element.GetComponent<ObstacleControl>().moveSpeed = -17f;
+                        break;
+                    case 7000:
+                        element.GetComponent<ObstacleControl>().moveSpeed = -18f;
+                        break;
+                    case 8000:
+                        element.GetComponent<ObstacleControl>().moveSpeed = -19f;
+                        break;
+                    case 9000:
+                        element.GetComponent<ObstacleControl>().moveSpeed = -20f;
+                        break;
+                    case 10000:
+                        element.GetComponent<ObstacleControl>().moveSpeed = -21f;
+                        break;
+                    case 15000:
+                        element.GetComponent<ObstacleControl>().moveSpeed = -22f;
+                        break;
                 }
             }
+        }
 
         if (player.IsDead)
         {
-            _uIManager.showGameOverScreen();
+            audioSource.Stop();
+            _uIManager.showGameOverScreen();   
         }
 
         //Spawn Enemies
@@ -135,6 +131,13 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    private void FixedUpdate()
+    {
+        if (scorePlaying)
+        {
+            Score++;
+        }
+    }
     void SpwanPlayer()
     {
         getCharacter = PlayerPrefs.GetInt("CharacterSelected");
@@ -142,17 +145,20 @@ public class GameManager : MonoBehaviour
         switch (getCharacter)
         {
             case 0:
-                Instantiate(_Player[0], new Vector3(-6, -2, 0), Quaternion.identity);
+                Instantiate(_Player[0], playerSpawnPoint.position, Quaternion.identity);
                 break;
             case 1:
-                Instantiate(_Player[1], new Vector3(-6, -2, 0), Quaternion.identity);
+                Instantiate(_Player[1], playerSpawnPoint.position, Quaternion.identity);
                 break;
             case 2:
-                Instantiate(_Player[2], new Vector3(-6, -2, 0), Quaternion.identity);
+                Instantiate(_Player[2], playerSpawnPoint.position, Quaternion.identity);
                 break;
             case 3:
-                Instantiate(_Player[3], new Vector3(-6, -2, 0), Quaternion.identity);
-                break;  
+                Instantiate(_Player[3], playerSpawnPoint.position, Quaternion.identity);
+                break;
+            default:
+                Instantiate(_Player[0], playerSpawnPoint.position, Quaternion.identity);
+                break;
         }
 
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
@@ -167,25 +173,27 @@ public class GameManager : MonoBehaviour
     {
        // nextSpawn = Time.time + spawnRate;
         int randomObstacle = Random.Range(0, _Enemies.Length);
-        Instantiate(_Enemies[randomObstacle], enemieSpawnPoint.position, Quaternion.identity);
+        Instantiate(_Enemies[randomObstacle], new Vector3(Random.Range(enemieSpawnPoint.position.x, 20f), Random.Range(-2f, 3f), enemieSpawnPoint.position.z), Quaternion.identity);
 
         timeBtwSpawn = startTimeBtwSpawn;
 
         if (startTimeBtwSpawn > minTime)
         {
             startTimeBtwSpawn -= decreaseTime;
-        }
-        
+        }    
     }
 
     private void saveScoreForNextLevel()
     {
 
-        PlayerPrefs.SetInt("Lv" + levelIndex, Score);
-
+        if(Score > PlayerPrefs.GetInt("Lv" + levelIndex))
+        {
+            PlayerPrefs.SetInt("Lv" + levelIndex, Score);
+        }
         //Debug.Log(PlayerPrefs.GetInt("Lv" + levelIndex, Score));
         //BackButton();
         //MARKER Each level has saved their own stars number
         //CORE PLayerPrefs.getInt("KEY", "VALUE"); We can use the KEY to find Our VALUE   
     }
+
 }
