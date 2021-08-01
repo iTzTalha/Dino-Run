@@ -13,6 +13,9 @@ Very easy to play this game, Tap the left half screen to make your adorable dino
 
 # Gameplay & Screenshots
 [![Dino-Run Trailer](https://i.ytimg.com/vi/zrwx7wKiqDY/maxresdefault.jpg)](https://youtu.be/zrwx7wKiqDY)
+![Dino-Run Trailer](https://img.youtube.com/vi/zrwx7wKiqDY/0.jpg)
+[![Dino-Run Trailer](https://img.youtube.com/vi/zrwx7wKiqDY/0.jpg)](https://www.youtube.com/watch?v=zrwx7wKiqDY)
+[![Dino-Run Trailer](https://i.ytimg.com/vi/zrwx7wKiqDY/maxresdefault.jpg)](https://youtu.be/zrwx7wKiqDY)
 ![Dino-Run](https://play-lh.googleusercontent.com/QcYf32I1X0sMN48cQVL7dpqoOI8Funi-tfgZEY2-IiywU0dZawdHIVYLykBKVrDhRg=w1280-h720-rw)
 ![Dino-Run](https://play-lh.googleusercontent.com/BVqPc3qj0wiyvC_jdX323q737C2v2W3Oh9bLm_GQ_VztXOpIF6wsls3In4deNG0UhA=w1280-h720-rw)
 ![Dino-Run](https://play-lh.googleusercontent.com/xPWF3MXCMj2hj1yNux2f1PmBxwfePZilBg6COyxxzWBgY-X_rGq2hWZb158PUugOTWk=w1280-h720-rw)
