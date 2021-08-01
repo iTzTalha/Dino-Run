@@ -21,3 +21,6 @@ Very easy to play this game, Tap the left half screen to make your adorable dino
 ![Dino-Run](https://play-lh.googleusercontent.com/vhXqjgoEjvNd60oqZLZ9CYIMZWeSyPgA3ptVFkU2rV9L9oXHOSCNRe6rk-Pzk7p68obS=w1280-h720-rw)
 ![Dino-Run](https://play-lh.googleusercontent.com/t5wJ3pGde_dxUg19wOb29H9dxaUvDAsbTawU0VEJ4RZHmVzLfPn5PHLz7EWLH-egVQA=w1280-h720-rw)
 ![Dino-Run](https://play-lh.googleusercontent.com/Am2uQBDcp3Uw9Uonff0XaRCjEOD5N1R-I6Tw8xOxVeLGO4nIWCqUEoHm4qP28-kZsEo=w1280-h720-rw)
+
+# Download
+<a href="https://play.google.com/store/apps/details?id=com.BitForge.DinoDodge"><img src="https://camo.githubusercontent.com/b186460de0a3c0080a61547b3963b85bfa6881c448c105737ddd39731271d447/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f617070732f656e2d706c61792d62616467652e706e67" align="left" height="25%" width="25%" ></a>
