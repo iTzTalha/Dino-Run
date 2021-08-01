@@ -1,4 +1,4 @@
-# Dino-Run
+# Dino Dodge
 Dino Dodge! is an exciting 2D endless running game where have to run continuously as fast as you can while dodging through the deadly monsters, ugly creatures, flying goblins, and dragons.
 
 # Features
@@ -19,3 +19,6 @@ Very easy to play this game, Tap the left half screen to make your adorable dino
 
 # Download
 <a href="https://play.google.com/store/apps/details?id=com.BitForge.DinoDodge"><img src="https://camo.githubusercontent.com/b186460de0a3c0080a61547b3963b85bfa6881c448c105737ddd39731271d447/68747470733a2f2f706c61792e676f6f676c652e636f6d2f696e746c2f656e5f75732f6261646765732f696d616765732f617070732f656e2d706c61792d62616467652e706e67" align="left" height="25%" width="25%" ></a>
+
+# Show Your Support
+Give a ⭐️ if you like this project!
